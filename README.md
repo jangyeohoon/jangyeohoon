@@ -11,6 +11,6 @@
     <img src="https://img.shields.io/badge/UIKit-F05138?style=flat-square&logo=swift&logoColor=white"/>
     </p>
 
-![YeoHoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangyeohoon&show_icons=true&theme=gruvbox_light)
+![YeoHoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangyeohoon&show_icons=true&theme=ambient_gradient)
 ...
 </div>
