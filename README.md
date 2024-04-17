@@ -14,3 +14,5 @@
 ![YeoHoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangyeohoon&show_icons=true&theme=ambient_gradient)
 
 </div>
+
+240417 수요일
